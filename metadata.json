@@ -1,0 +1,6 @@
+{
+  "name": "Ruta Inducción SENA",
+  "description": "Plataforma prototipo para el seguimiento del proceso de inducción y el aprendizaje interactivo de la normativa e imagen institucional del SENA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
